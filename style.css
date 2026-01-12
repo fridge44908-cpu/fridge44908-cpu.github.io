@@ -35,7 +35,7 @@ main {background: #b0637e;
 display: flex;
 margin-top: 20px;}
 
-.sidebar {margin-right: 25px;
+.sidebar {margin-right: 50px;
 padding: 10px;}
 
 .sidebar-img {width: 200px}
@@ -45,8 +45,8 @@ padding: 15px}
 
 /* interests section styles */
 #interests {border: 4px #d9986a ridge;
-padding: 8px;
-margin-top: 20px;}
+padding: 9px;
+margin-top: 70px;}
 
 h2, h3 {margin: 0px;}
 
